@@ -71,16 +71,13 @@ python -m spacy download en_core_web_lg
 ![RESULTS](https://github.com/tanish0510/Physician_Notetaker/blob/main/snaps/Screenshot%202025-03-11%20at%2012.06.57%E2%80%AFAM.png])
 
 ### WordCloud
-![RESULTS](https://github.com/tanish0510/Physician_Notetaker/blob/main/snaps/Screenshot%202025-03-11%20at%2012.06.52%E2%80%AFAM.png)
+![RESULTS](https://github.com/tanish0510/Physician_Notetaker/blob/main/snaps/Screenshot%202025-03-11%20at%2012.07.49%E2%80%AFAM.png)
 
 ### Network Graph
 ![RESULTS](https://github.com/tanish0510/Physician_Notetaker/blob/main/snaps/Screenshot%202025-03-11%20at%2012.08.01%E2%80%AFAM.png)
 
 ### Patient Journey Timeline
 ![RESULTS](https://github.com/tanish0510/Physician_Notetaker/blob/main/snaps/Screenshot%202025-03-11%20at%2012.08.10%E2%80%AFAM.png)
-
-### Patient Sentiment Progression
-![RESULTS](https://github.com/tanish0510/Physician_Notetaker/blob/main/snaps/Screenshot%202025-03-11%20at%2012.08.29%E2%80%AFAM.png)
 
 ### Patient Sentiment Progression
 ![RESULTS](https://github.com/tanish0510/Physician_Notetaker/blob/main/snaps/Screenshot%202025-03-11%20at%2012.08.29%E2%80%AFAM.png)
