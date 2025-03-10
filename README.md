@@ -6,12 +6,12 @@ This project implements a **Medical NLP Pipeline** for processing **physician-pa
 ---
 
 ## 🚀 Features  
-### ✔ Conversation Parsing** → Extracts physician & patient dialogues.  
-### ✔ *Named Entity Recognition (NER)** → Identifies **symptoms, treatments, diagnoses, prognoses** using spaCy.  
-### ✔ *Sentiment & Intent Analysis** → Classifies **emotions (Anxious, Neutral, Reassured)** and detects **patient intent**.  
-### ✔ *SOAP Note Generation** → Converts extracted information into **structured medical reports**.  
-### ✔ *Medical Data Visualization** → Creates **word clouds, network graphs, patient timelines, and sentiment charts**.  
-### ✔ *Handling Missing Data** → Ensures **structured summaries** even with incomplete inputs.  
+### ✔ Conversation Parsing → Extracts physician & patient dialogues.  
+### ✔ *Named Entity Recognition (NER) → Identifies **symptoms, treatments, diagnoses, prognoses** using spaCy.  
+### ✔ *Sentiment & Intent Analysis → Classifies **emotions (Anxious, Neutral, Reassured)** and detects **patient intent**.  
+### ✔ *SOAP Note Generation → Converts extracted information into **structured medical reports**.  
+### ✔ *Medical Data Visualization → Creates **word clouds, network graphs, patient timelines, and sentiment charts**.  
+### ✔ *Handling Missing Data → Ensures **structured summaries** even with incomplete inputs.  
 ---
 ## ⚙️ Installation & Setup  
 ### **1️⃣ Clone the Repository**  
