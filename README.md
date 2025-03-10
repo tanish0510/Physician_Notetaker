@@ -12,23 +12,11 @@ This project implements a **Medical NLP Pipeline** for processing **physician-pa
 ✔ **SOAP Note Generation** → Converts extracted information into **structured medical reports**.  
 ✔ **Medical Data Visualization** → Creates **word clouds, network graphs, patient timelines, and sentiment charts**.  
 ✔ **Handling Missing Data** → Ensures **structured summaries** even with incomplete inputs.  
-
 ---
-
-## 📂 Project Structure  
-📁 Medical-NLP-Pipeline
-│── 📄 README.md          # Project Documentation
-│── 📄 requirements.txt   # Python dependencies
-│── 📄 main.ipynb         # Jupyter Notebook implementation
-│── 📁 data/              # Sample conversation data
-│── 📁 models/            # Pre-trained Transformer models
-│── 📁 outputs/           # Generated SOAP notes & visualizations
----
-
 ## ⚙️ Installation & Setup  
 ### **1️⃣ Clone the Repository**  
 ```bash
-  git clone https://github.com/yourusername/Medical-NLP-Pipeline.git
+  git clone https://github.com/tanish0510/Physician_Notetaker
   cd Medical-NLP-Pipeline
 ```
 
